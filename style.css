@@ -1,3 +1,7 @@
 .loginForm{
     background-color: lightgray;
 }
+.loginButton{
+    color: white;
+    background-color: blue;
+}
